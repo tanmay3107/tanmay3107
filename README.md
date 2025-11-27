@@ -1,80 +1,77 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Tanmay%20Janak&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3F8CFF&center=true&vCenter=true&width=435&lines=Hi,+I'm+Tanmay+Janak;AI%2FML+Researcher;Building+Intelligent+Systems;Deep+Learning+Enthusiast" alt="Typing SVG" />
+  </a>
 </div>
 
-## 💫 About Me
 <div align="center">
-  
-  **AI/ML Engineer & Researcher**
-  
-  <p align="center">
-    Current Focus: <b>Hybrid Meta-Few-Shot Learning</b> & <b>Medical Image Classification</b>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 </div>
 
-👋 I am a final-year student passionate about building intelligent systems that require minimal data to learn. I specialize in deep learning architectures and optimizing models for local deployment (CUDA/RTX).
+<br>
 
-* 🧠 **Deep Learning:** Working with PyTorch & TensorFlow for NLP and Computer Vision.
-* 🔬 **Research:** Exploring Responsible AI, Safety Systems, and Few-Shot Learning.
-* 🚀 **Goal:** Bridging the gap between theoretical AI and real-world medical applications.
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TanmayJanak)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanmay.janak.tj1113@gmail.com)
-
-</div>
-
----
-
-## 💻 Technical Arsenal
-
-### 🤖 AI & Computer Vision
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![nVIDIA](https://img.shields.io/badge/cuda-76B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-
-### 📊 Data Science & Analysis
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-
-### 🛠️ Languages & Backend
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-<table>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=tanmay3107&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
+    <td width="60%" valign="center">
+      <h2>🧠 About Me</h2>
+      <p>
+        I am a final-year AI/ML student focused on <b>Data-Efficient Deep Learning</b>. I build models that learn from limited data to solve complex medical and vision problems.
+      </p>
+      <ul>
+        <li>🔭 <b>Currently working on:</b> Hybrid Meta-Few-Shot Learning for Medical Imaging.</li>
+        <li>🧬 <b>Research Interests:</b> Computer Vision, NLP, and Responsible AI.</li>
+        <li>⚙️ <b>Rig:</b> Experimenting on RTX 3050ti / CUDA.</li>
+        <li>🌱 <b>Learning:</b> Optimization techniques for Safety AI Systems.</li>
+      </ul>
+      <br>
+      <a href="https://linkedin.com/in/TanmayJanak">
+        <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      </a>
+      <a href="mailto:tanmay.janak.tj1113@gmail.com">
+        <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+      </a>
     </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay3107&theme=tokyonight&layout=compact&hide_border=true" />
+    <td width="40%" align="center">
+      <img src="https://cdn.dribbble.com/users/1186261/screenshots/3718681/eng-notes.gif" width="100%"/>
     </td>
   </tr>
 </table>
-</div>
+
+<br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanmay3107&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <h3>🚀 Featured Research: Meta-Learning in Healthcare</h3>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
   <br>
-  <img src="https://visitcount.itsvg.in/api?id=tanmay3107&icon=0&color=0" />
+  <p><i>Developing a Hybrid Meta-Few-Shot Learning framework to classify medical images with high accuracy using minimal labeled data.</i></p>
+  
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Meta_Learning-grey?style=flat-square" />
+  <img src="https://img.shields.io/badge/Medical_Imaging-blue?style=flat-square" />
+</div>
+
+<br>
+
+<h2 align="center">🛠️ Technical Arsenal</h2>
+<div align="center">
+  
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,python,anaconda" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,matlab,mysql,flask,django" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,azure" />
+  
+</div>
+
+<br>
+
+<h2 align="center">📊 Development Metrics</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanmay3107&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay3107&layout=compact&theme=transparent&hide_border=true" height="150" />
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </div>
