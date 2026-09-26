@@ -15,7 +15,7 @@
     <td width="60%" valign="center">
       <h2>🧠 About Me</h2>
       <p>
-        I am a final-year AI/ML student focused on <b>Data-Efficient Deep Learning</b>. I build models that learn from limited data to solve complex medical and vision problems.
+        I am a Master's student at the <b>University of Leeds</b> focused on <b>Applied AI & Deep Learning</b>. I design and build end-to-end machine learning models, computer vision pipelines, and scalable AI systems to solve complex real-world problems.
       </p>
       <ul>
         <li>🔭 <b>Currently working on:</b> Hybrid Meta-Few-Shot Learning for Medical Imaging.</li>
